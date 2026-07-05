@@ -1,0 +1,31 @@
+name: Refresh yantene.net
+
+# コンテンツを push したら、対象環境の Worker に同期 (refresh) を依頼する。
+# staging ブランチ -> staging 環境 / main ブランチ -> production 環境。
+on:
+  push:
+    branches: [main, staging]
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger refresh
+        env:
+          REFRESH_SECRET: ${{ secrets.REFRESH_SECRET }}
+          STAGING_BASIC_AUTH: ${{ secrets.STAGING_BASIC_AUTH }}
+        run: |
+          set -euo pipefail
+          case "${GITHUB_REF_NAME}" in
+            staging)
+              # staging は BASIC 認証 (-u) + refresh シークレット (X-Refresh-Token) の二段。
+              curl -fsS -X POST \
+                -u "${STAGING_BASIC_AUTH}" \
+                -H "X-Refresh-Token: ${REFRESH_SECRET}" \
+                https://yantene-staging.yantene.workers.dev/api/v1/refresh
+              echo ;;
+            main)
+              # production 未デプロイ。デプロイ後にここで production の refresh URL を叩く。
+              echo "production は未デプロイのため refresh をスキップ" ;;
+          esac
