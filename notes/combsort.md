@@ -1,5 +1,6 @@
 ---
 title: CombSort
+tags: [日記, 競技プログラミング, アルゴリズム]
 publishedOn: 2010-07-11
 lastModifiedOn: 2010-07-11
 ---

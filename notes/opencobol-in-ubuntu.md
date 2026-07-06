@@ -1,5 +1,6 @@
 ---
 title: OpenCOBOL in Ubuntu
+tags: [GNU/Linux, 備忘録, プログラミング]
 publishedOn: 2010-09-12
 lastModifiedOn: 2010-09-12
 ---

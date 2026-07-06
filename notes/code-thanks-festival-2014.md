@@ -1,5 +1,6 @@
 ---
 title: CODE THANKS FESTIVAL 2014 に行ってきた
+tags: [日記, 参加記, 競技プログラミング]
 publishedOn: 2014-12-21
 lastModifiedOn: 2014-12-21
 ---

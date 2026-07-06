@@ -1,5 +1,6 @@
 ---
 title: SONY VAIO T(SVT1311AJ)上のLinuxで輝度調整をする
+tags: [GNU/Linux, 備忘録]
 publishedOn: 2012-12-14
 lastModifiedOn: 2012-12-14
 ---

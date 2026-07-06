@@ -1,5 +1,6 @@
 ---
 title: テスト週間が終わりて TopCoder の練習を行ふこと (宇治拾遺物語)
+tags: [日記, 競技プログラミング]
 publishedOn: 2010-07-02
 lastModifiedOn: 2010-07-02
 ---

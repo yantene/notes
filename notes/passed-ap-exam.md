@@ -1,5 +1,6 @@
 ---
 title: 応用情報合否発表！！
+tags: [日記, 試験]
 publishedOn: 2010-12-20
 lastModifiedOn: 2010-12-20
 ---

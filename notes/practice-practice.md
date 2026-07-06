@@ -1,5 +1,6 @@
 ---
 title: Practice!! Practice!!
+tags: [日記, 競技プログラミング]
 publishedOn: 2010-07-07
 lastModifiedOn: 2010-07-07
 ---

@@ -1,5 +1,6 @@
 ---
 title: 「あみだくじ」 by COBOL
+tags: [競技プログラミング]
 publishedOn: 2010-11-15
 lastModifiedOn: 2010-11-15
 ---

@@ -1,5 +1,6 @@
 ---
 title: Arch Linux on UEFI な環境のインストール手順の備忘録
+tags: [GNU/Linux, 備忘録]
 publishedOn: 2014-12-25
 lastModifiedOn: 2014-12-25
 ---

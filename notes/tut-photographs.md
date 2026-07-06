@@ -1,5 +1,6 @@
 ---
 title: 技科大写真で振り返る 4 年間
+tags: [日記]
 publishedOn: 2015-12-02
 lastModifiedOn: 2015-12-02
 ---

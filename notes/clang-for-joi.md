@@ -1,5 +1,6 @@
 ---
 title: 情オリのため、久しぶりの C 言語
+tags: [競技プログラミング]
 publishedOn: 2010-11-07
 lastModifiedOn: 2010-11-07
 ---

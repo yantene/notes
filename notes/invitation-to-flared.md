@@ -1,5 +1,6 @@
 ---
 title: Fla.red への誘い
+tags: [GNU/Linux, 備忘録, Web, プログラミング]
 publishedOn: 2017-12-25
 lastModifiedOn: 2017-12-25
 ---

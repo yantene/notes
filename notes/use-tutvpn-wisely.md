@@ -1,5 +1,6 @@
 ---
 title: ocproxy で TUT VPN を賢く使う
+tags: [GNU/Linux, 備忘録]
 publishedOn: 2016-12-09
 lastModifiedOn: 2016-12-09
 ---

@@ -1,5 +1,6 @@
 ---
 title: 技科大の成績確認ツールを作ってみた
+tags: [Web, プログラミング, GNU/Linux]
 publishedOn: 2015-08-27
 lastModifiedOn: 2015-08-27
 ---

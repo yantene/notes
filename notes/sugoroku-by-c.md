@@ -1,5 +1,6 @@
 ---
 title: C によるすごろく
+tags: [日記, 参加記, プログラミング]
 publishedOn: 2010-02-04
 lastModifiedOn: 2010-02-04
 ---

@@ -1,5 +1,6 @@
 ---
 title: Windows タブレット KEIAN KVI-70B に Arch Linux をインストールする
+tags: [日記, GNU/Linux, 備忘録]
 publishedOn: 2016-02-01
 lastModifiedOn: 2016-02-01
 ---

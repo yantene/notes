@@ -1,5 +1,6 @@
 ---
 title: 「あみだくじ」
+tags: [競技プログラミング]
 publishedOn: 2010-11-09
 lastModifiedOn: 2010-11-09
 ---

@@ -1,5 +1,6 @@
 ---
 title: 第 9 回 JOI 予選 5 問題 (失敗編)
+tags: [競技プログラミング]
 publishedOn: 2010-11-14
 lastModifiedOn: 2010-11-14
 ---

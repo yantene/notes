@@ -1,5 +1,6 @@
 ---
 title: 基本情報技術者試験まであと 1 ヶ月
+tags: [日記, 試験]
 publishedOn: 2010-03-20
 lastModifiedOn: 2010-03-20
 ---

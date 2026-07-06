@@ -1,5 +1,6 @@
 ---
 title: Arduino を購入 → 遊んでみた
+tags: [日記, プログラミング, 電子工作]
 publishedOn: 2010-01-06
 lastModifiedOn: 2010-01-06
 ---

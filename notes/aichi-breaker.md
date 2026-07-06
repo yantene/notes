@@ -1,5 +1,6 @@
 ---
 title: AICHI BREAKER
+tags: [日記, プログラミング]
 publishedOn: 2010-04-26
 lastModifiedOn: 2010-04-26
 ---

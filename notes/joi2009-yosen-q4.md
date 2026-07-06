@@ -1,5 +1,6 @@
 ---
 title: 第 9 回 JOI 予選 4 問題
+tags: [競技プログラミング]
 publishedOn: 2010-11-12
 lastModifiedOn: 2010-11-12
 ---

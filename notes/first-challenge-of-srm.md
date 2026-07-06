@@ -1,5 +1,6 @@
 ---
 title: TopCoder の SRM に初参加。
+tags: [日記, 競技プログラミング]
 publishedOn: 2010-07-06
 lastModifiedOn: 2010-07-06
 ---

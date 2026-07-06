@@ -1,5 +1,6 @@
 ---
 title: TopCoder 初挑戦！
+tags: [競技プログラミング]
 publishedOn: 2010-06-22
 lastModifiedOn: 2010-06-22
 ---

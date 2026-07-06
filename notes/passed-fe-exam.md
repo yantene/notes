@@ -1,5 +1,6 @@
 ---
 title: 基本情報技術者試験に合格しました！
+tags: [日記, 試験]
 publishedOn: 2010-05-21
 lastModifiedOn: 2010-05-21
 ---
